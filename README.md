@@ -34,8 +34,8 @@ Essa API permite o envio de mensagens personalizadas para contatos individuais o
 1. Clone este repositório:  
 
    ```bash  
-   git clone https://github.com/seu-usuario/sua-repositorio.git  
-   cd sua-repositorio  
+   git clone https://github.com/olavooferreira/api-zabbix-whats  
+   cd api-zabbix-whats  
    ```  
 
 2. Instale as dependências:  
